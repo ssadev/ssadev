@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sk Sarfaraz Ahamed</h1>
-<h3 align="center">I am a Full-Stack Developer. I mostly focused on backend development and I love Automation and
+<h3 align="center">I am a Full-Stack Developer. I mostly focused on backend development and use React for front-end. I love Automation and
     Python/Shell Scripting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssadev&label=Profile%20views&color=0e75b6&style=flat"
