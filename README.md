@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssadev&label=Profile%20views&color=0e75b6&style=flat"
         alt="ssadev" /> </p>
 
-- 🔭 I’m currently doing Internship at **MirrorScore**
+- 🔭 I’m currently doing Internship at **Data Sutram**
 
-- 🌱 I’m currently learning **Blockchain, Automation Testing**
+- 🌱 I’m currently learning **DevOps**
 
 - 🤝 I’m looking for help with [SsaDev-chrome-homepage](https://github.com/ssadev/SsaDev-chrome-homepage)
 
 - 👨‍💻 All of my projects are available at [ssadev.github.io](ssadev.github.io)
 
-- 💬 Ask me about **Python, Django, React, JavaScript**
+- 💬 Ask me about **Python, React, Django, JavaScript**
 
 - 📫 How to reach me **sksarfaraz4006@gmail.com**
 
