@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with [SsaDev-chrome-homepage](https://github.com/ssadev/SsaDev-chrome-homepage)
-
 - 👨‍💻 All of my projects are available at [ssadev.github.io](ssadev.github.io)
 
 - 💬 Ask me about **Python, React, Django, JavaScript**
